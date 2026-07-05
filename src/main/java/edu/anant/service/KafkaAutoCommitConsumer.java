@@ -1,4 +1,4 @@
-package edu.anant.config;
+package edu.anant.service;
 
 
 import lombok.extern.slf4j.Slf4j;

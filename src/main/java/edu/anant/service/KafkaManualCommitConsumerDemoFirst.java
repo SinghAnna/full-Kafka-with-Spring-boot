@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 
 @Slf4j
 @Service
-public class KafkaManualCommitConsumer {
+public class KafkaManualCommitConsumerDemoFirst {
 
     @KafkaListener(
             topics = "manual-commit-topic",
