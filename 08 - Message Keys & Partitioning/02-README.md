@@ -1,4 +1,4 @@
-# Chapter 08 - Part 3
+# Chapter 08 - Part 2
 # Practical Demos, Testing & Verification
 
 ---
