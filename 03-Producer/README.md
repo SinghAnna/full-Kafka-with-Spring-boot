@@ -1,4 +1,4 @@
-# 📤 Chapter - 04 Kafka Producer - Theory
+# 📤 Chapter - 03 Kafka Producer - Theory
 
 Before writing any code, it's important to understand what a Kafka Producer is and how it works.
 
