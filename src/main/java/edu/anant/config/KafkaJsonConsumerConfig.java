@@ -1,7 +1,7 @@
-package edu.anant.json_Conveter.config;
+package edu.anant.config;
 
 
-import edu.anant.json_Conveter.dto.Employee;
+import edu.anant.dto.Employee;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;
 import org.springframework.boot.autoconfigure.kafka.KafkaProperties;

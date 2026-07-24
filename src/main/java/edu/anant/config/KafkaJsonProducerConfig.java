@@ -1,4 +1,4 @@
-package edu.anant.json_Conveter.config;
+package edu.anant.config;
 
 public class KafkaJsonProducerConfig {
 }
