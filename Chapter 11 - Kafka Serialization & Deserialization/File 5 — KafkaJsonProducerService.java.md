@@ -1,7 +1,7 @@
 # File 5 — KafkaJsonProducerService.java
 
 ```java
-package edu.anant.service;
+package edu.anant.producer;
 
 import edu.anant.dto.Employee;
 import lombok.RequiredArgsConstructor;

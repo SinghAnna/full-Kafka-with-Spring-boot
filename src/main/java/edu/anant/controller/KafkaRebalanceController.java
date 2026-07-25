@@ -1,6 +1,6 @@
 package edu.anant.controller;
 
-import edu.anant.service.KafkaRebalanceProducerService;
+import edu.anant.service.producer.KafkaRebalanceProducerService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package edu.anant.service;
+package edu.anant.service.producer;
 
 import edu.anant.dto.Employee;
 import lombok.RequiredArgsConstructor;

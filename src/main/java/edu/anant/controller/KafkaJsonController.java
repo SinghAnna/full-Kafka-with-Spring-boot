@@ -1,7 +1,7 @@
 package edu.anant.controller;
 
 import edu.anant.dto.Employee;
-import edu.anant.service.KafkaJsonProducerService;
+import edu.anant.service.producer.KafkaJsonProducerService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

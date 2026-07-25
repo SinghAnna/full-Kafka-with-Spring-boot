@@ -1,6 +1,6 @@
 package edu.anant.controller;
 
-import edu.anant.service.KafkaOffsetProducerService;
+import edu.anant.service.producer.KafkaOffsetProducerService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

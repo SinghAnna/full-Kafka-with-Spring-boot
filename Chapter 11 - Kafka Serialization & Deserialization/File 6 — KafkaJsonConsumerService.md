@@ -1,7 +1,7 @@
 # File 6 — KafkaJsonConsumerService.java
 
 ```java
-package edu.anant.service;
+package edu.anant.producer;
 
 import edu.anant.dto.Employee;
 import lombok.extern.slf4j.Slf4j;

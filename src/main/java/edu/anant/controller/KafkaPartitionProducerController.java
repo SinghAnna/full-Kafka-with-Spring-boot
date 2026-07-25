@@ -2,8 +2,7 @@ package edu.anant.controller;
 
 
 
-import edu.anant.service.KafkaProducerPartitionService;
-import edu.anant.service.KafkaProducerService;
+import edu.anant.service.producer.KafkaProducerPartitionService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 
