@@ -1,3 +1,6 @@
+
+
+ .m,
 # Chapter 07 - Kafka Partitions
 
 ## 📌 Overview
